@@ -1,0 +1,6 @@
+.listing th,.listing td{color:#66798D;font-weight:400;font-size:.9rem;padding:.8rem}
+.listing td{font-weight:500}
+.listing .bg-light{background-color:#F2F4F7!important}
+:focus{outline:0}
+.searching_border{border-bottom:2px solid #66798D}
+.searching{font-weight:500}

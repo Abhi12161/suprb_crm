@@ -1,0 +1,46 @@
+.mainbox {
+    background-size: cover;
+    font-weight: 400;
+    font-size: 14px;
+    color: #323232;
+   /*  width: 650px;*/
+    height: 774px;
+    margin: 6% auto;
+    padding: 10px;
+
+}
+.forms-text {
+  position: relative;
+  top: 11px;
+  left: 10px;
+  background-color: #fff;
+  padding: 5px 10px;
+  font-size: 15px;
+  color: #cfcdcd;
+  font-style: italic;
+  float: left;
+}
+
+ul {
+    padding-left: 0.5em;
+    list-style: none;
+    margin: 1.5em 0 2em 0;
+  }
+  li {
+    margin: 0.5em 0;
+  }
+  ol, ul {
+    padding-left: 1rem;
+  }
+  .list li::before {
+    content: "";
+    display: inline-block;
+    transform: rotate(45deg);
+    height: 0.8em;
+    width: 0.43em;
+    border-bottom: 0.15em solid;
+    border-right: 0.15em solid;
+    margin-right: 1em;
+    color: #78b13f;
+  }
+  
